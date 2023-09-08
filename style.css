@@ -247,3 +247,9 @@ ul a{
     padding: 5px;
     
 }
+    @media screen and (max-width: 400px) { 
+       .topnav a { 
+         float: none; 
+         width: 100%; 
+       } 
+     }
