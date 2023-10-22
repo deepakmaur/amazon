@@ -1,6 +1,7 @@
-Sure, here's a simple README for your GitHub project. You can modify it as per your needs:
 
-```markdown
+Preview:- https://deepakmaur.github.io/amazon/
+
+
 # Amazon Clone
 
 Welcome to the GitHub repository of our Amazon Clone project!
@@ -9,7 +10,7 @@ Welcome to the GitHub repository of our Amazon Clone project!
 
 This project is a clone of the popular e-commerce platform, Amazon. It replicates the key features and functionalities of the original site, providing a similar user experience.
 
-Preview Here:-  https://deepakmaur.github.io/amazon/
+
 
 
 
