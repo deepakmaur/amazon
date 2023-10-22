@@ -9,6 +9,8 @@ Welcome to the GitHub repository of our Amazon Clone project!
 
 This project is a clone of the popular e-commerce platform, Amazon. It replicates the key features and functionalities of the original site, providing a similar user experience.
 
+Preview Here:-  https://deepakmaur.github.io/amazon/
+
 
 
 ## Technologies Used
