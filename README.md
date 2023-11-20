@@ -29,9 +29,7 @@ We welcome contributions from the community. If you wish to contribute:
 4. Push your changes to the branch.
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License.
 
 ## Contact
 
