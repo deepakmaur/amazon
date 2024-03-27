@@ -2,9 +2,9 @@
 Preview:- https://deepakmaur.github.io/amazon/
 
 
-# Amazon Clone
+# Prime Replica {Amazon Clone}
 
-Welcome to the GitHub repository of our Amazon Clone project!
+ Revolutionizing E-commerce with Our Amazon 
 
 ## Overview
 
